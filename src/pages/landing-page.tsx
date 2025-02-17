@@ -31,7 +31,7 @@ export const LandingPage = () => {
             src="https://images.pexels.com/photos/683039/pexels-photo-683039.jpeg?cs=srgb&dl=pexels-apgpotr-683039.jpg&fm=jpg" alt="" />
             <div className="z-10 flex flex-col gap-8 p-8 rounded-lg bg-neutral-800">
 
-                <div className="max-w-xl m-auto text-center flex flex-col gap-4">
+                <div className="max-w-xl m-auto text-center flex flex-col gap-4 p-8">
                     <h1 className="font-medium text-3xl">Our Collection</h1>
                     <p className="text-neutral-500 text-sm md:text-lg font-medium">Introducting our Coffee Collection, a selection of unique coffees from different roast types and origins, expertly roasted in small batches and shipped fresh weekly.</p>
                     <div className="flex flex-row gap-4 m-auto">
