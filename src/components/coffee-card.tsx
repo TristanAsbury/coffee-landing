@@ -2,7 +2,7 @@ import Coffee from "../types/coffee";
 
 export const CoffeeCard = ({coffee}: {coffee: Coffee}) => {
     return (
-        <div className="md:w-sm flex flex-col m-auto hover:scale-105 hover:cursor-pointer transition-all">
+        <div className="md:w-xs flex flex-col m-auto hover:scale-105 hover:cursor-pointer transition-all">
             {/* TOP PART */}
             <div className="relative w-full h-full">
                 {/* IMAGE */}
