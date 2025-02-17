@@ -27,7 +27,7 @@ export const LandingPage = () => {
     return (
         <main className="relative text-white w-full min-h-full flex flex-col justify-center items-center p-16">
             <img 
-            className="absolute top-0 h-96 w-full object-cover blur-xs" 
+            className="absolute top-0 h-96 w-full object-cover grayscale-25" 
             src="https://images.pexels.com/photos/683039/pexels-photo-683039.jpeg?cs=srgb&dl=pexels-apgpotr-683039.jpg&fm=jpg" alt="" />
             <div className="z-10 flex flex-col gap-8 p-8 rounded-lg bg-neutral-800">
 
